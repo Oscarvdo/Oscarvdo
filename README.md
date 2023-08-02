@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1>### Hi I'm Oscar! </h1>
+I specialize in managing and implementing secure organizational networks and systems while upholding core security principles, including confidentiality, integrity, and ethics. My goal is to contribute to innovative solutions that have a positive impact on organizations and the people they serve.
 <!--
 **Oscarvdo/Oscarvdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
