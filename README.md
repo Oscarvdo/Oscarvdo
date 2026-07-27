@@ -1,4 +1,4 @@
-# Hi, I'm Oscar Valenzuela 👋
+# Hi, I'm Oscar Valenzuela 
 
 **Ph.D. in Computer Systems | AI Engineer | Computer Vision | Industrial AI | Robotics | Data Engineering**
 
