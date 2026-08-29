@@ -1,6 +1,6 @@
 # Hi, I'm Oscar Ivan Valenzuela 
 
-**Ph.D. in Computer Systems | AI Engineer | Computer Vision | Industrial AI | Robotics | Data Engineering**
+** AI Engineer | Computer Vision | Industrial AI | Robotics | Data Engineering**
 
 I build intelligent systems that combine artificial intelligence, computer vision, robotics, industrial automation, and data engineering to solve real-world engineering challenges.
 
@@ -69,9 +69,7 @@ Python • React • SQL • Data Analytics
 
 # 🎓 Education
 
-- Ph.D. in Computer Systems — Universidad del Sur
 - M.S. in Data Science — Instituto Suizo Universitario
-- M.S. in Economics & Finance — Instituto Suizo Universitario
 - B.S. in Computer Systems Engineering — Instituto Tecnológico de Nogales
 - B.S. in Robotics & Manufacturing Engineering *(Coursework Completed)* — UNIDEP
 
