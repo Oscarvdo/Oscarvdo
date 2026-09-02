@@ -81,7 +81,6 @@ Python • React • SQL • Data Analytics
 https://www.linkedin.com/in/oscarivanvalenzuela/
 
 🌐 **Portfolio** *(coming soon)*  
-https://oscarvdo.github.io
 
 📧 **Email**  
 mailto:osckar.vdo@gmail.com
