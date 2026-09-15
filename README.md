@@ -1,6 +1,6 @@
 # Hi, I'm Oscar Ivan Valenzuela 
 
-** AI Engineer | Computer Vision | Industrial AI | Robotics | Data Engineering**
+**AI Engineer | Computer Vision | Industrial AI | Robotics | Data Engineering**
 
 I build intelligent systems that combine artificial intelligence, computer vision, robotics, industrial automation, and data engineering to solve real-world engineering challenges.
 
