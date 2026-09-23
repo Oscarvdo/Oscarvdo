@@ -68,10 +68,8 @@ Python • React • SQL • Data Analytics
 ---
 
 # 🎓 Education
-
-- M.S. in Data Science — Instituto Suizo Universitario
+- M.S. in Computer Systems  — Instituto Tecnológico de Nogales
 - B.S. in Computer Systems Engineering — Instituto Tecnológico de Nogales
-- B.S. in Robotics & Manufacturing Engineering *(Coursework Completed)* — UNIDEP
 
 ---
 
